@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @soorajam
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning springboot
+- 👋 Hi, I’m @sooraja
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
